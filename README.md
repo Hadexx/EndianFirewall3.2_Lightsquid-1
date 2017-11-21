@@ -1,6 +1,9 @@
 # Endian Firewall 3.2.x
 
 
+
+
+
 Lightsquid Report
 =============
 Addon for Endian Firewall 3.2, install report Lighsquid for Squid logs.
