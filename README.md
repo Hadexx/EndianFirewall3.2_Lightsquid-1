@@ -1,7 +1,7 @@
 # Endian Firewall 3.2.x
 
 
-Endian Lightsquid
+Lightsquid Report
 =============
 Addon for Endian Firewall 3.2, install report for squid logs.
 
@@ -20,6 +20,10 @@ Installation:
 --------
     curl -Lo lightsquid-endian3-1.0-1.rpm LINK
     rpm -Uvh lightsquid-endian3-1.0-1.rpm LINK
+    
+Other information:
+------------------
+- This instalation run together sarg, no need unnistall sarg report.
 
   
   
