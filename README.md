@@ -3,7 +3,7 @@
 
 Lightsquid Report
 =============
-Addon for Endian Firewall 3.2, install report for squid logs.
+Addon for Endian Firewall 3.2, install report Lighsquid for Squid logs.
 
 
 Version:
@@ -23,7 +23,7 @@ Installation:
     
 Other information:
 ------------------
-- This instalation run together sarg, no need unnistall sarg report.
+- This installation run together with sarg, no need uninstall sarg report.
 
   
   
