@@ -27,7 +27,7 @@ Installation:
 
 Downloading:
 
-    curl -Lo lightsquid-endian3-2.0-1.x86_64.rpm https://github.com/brunoalmeida33/EndianFirewall3.2_Lightsquid/blob/master/lightsquid-endian3-2.0-1.x86_64.rpm
+    curl -Lo lightsquid-endian3-2.0-1.x86_64.rpm https://raw.githubusercontent.com/brunoalmeida33/EndianFirewall3.2_Lightsquid/master/lightsquid-endian3-2.0-1.x86_64.rpm
     
     
 Installation:
